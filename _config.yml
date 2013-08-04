@@ -1,4 +1,4 @@
-baseurl: /wangybehere@github.com
+baseurl: /mythjune@github.com
 
 markdown: rdiscount
 pygments: true
@@ -7,9 +7,9 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: wangybehere
-url: http://wangybehere.github.io
-description: IN GOD WE TRUST 
-github: wangybehere
-gravatar_url: http://www.gravatar.com/avatar/e7a95885528074f5c7bd13373ae73d97.png
+name: mythjune
+url: http://mythjune.github.io
+description: Stars in Sand
+github: mythjune
+gravatar_url: http://img3.douban.com/icon/u1261234-1.jpg
 
